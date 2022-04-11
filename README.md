@@ -1,0 +1,2 @@
+# testSvgSafari
+Created with CodeSandbox
